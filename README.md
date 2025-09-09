@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0812-rotate-string) |
 ## Sorting
