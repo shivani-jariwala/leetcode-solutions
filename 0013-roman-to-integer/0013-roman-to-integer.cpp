@@ -1,14 +1,15 @@
 class Solution {
 public:
     int romanToInt(string s) {
-        unordered_map<char, int> mpp;
-        mpp['I'] = 1;
-        mpp['V'] = 5;
-        mpp['X'] = 10;
-        mpp['L'] = 50;
-        mpp['C'] = 100;
-        mpp['D'] = 500;
-        mpp['M'] = 1000;
+        unordered_map<char, int> mpp = {
+            {'I',1},
+            {'V',5},
+            {'X',10},
+            {'L',50},
+            {'C',100},
+            {'D',500},
+            {'M',1000}
+        };
         int n = s.length();
         int r = n-1;
         int sum = 0;
