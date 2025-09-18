@@ -7,7 +7,7 @@ private:
         }
         singleAns.push_back(arr[index]);
         helper(arr, index, target-arr[index], singleAns, finalAns);
-        helper(arr, index+1, target-arr[index], singleAns, finalAns);
+        // helper(arr, index+1, target-arr[index], singleAns, finalAns);
         singleAns.pop_back();
         helper(arr, index+1, target, singleAns, finalAns);
         return;
