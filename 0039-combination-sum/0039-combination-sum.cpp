@@ -9,11 +9,11 @@ private:
         helper(arr, index, target-arr[index], singleAns, finalAns);
         // helper(arr, index+1, target-arr[index], singleAns, finalAns);
         singleAns.pop_back();
-        int currEle = arr[index];
-        while(index<arr.size() && currEle == arr[index]) {
-            index++;
-        }
-        helper(arr, index, target, singleAns, finalAns);
+        // int currEle = arr[index];
+        // while(index<arr.size() && currEle == arr[index]) {
+        //     index++;
+        // }
+        helper(arr, index+1, target, singleAns, finalAns);
         return;
     }
 public:
