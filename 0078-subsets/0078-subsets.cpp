@@ -1,7 +1,7 @@
 class Solution {
 private:
     void helper(vector<int> arr, int index, vector<int>& container, vector<vector<int>> &finalAns){
-        if(index>=arr.size()) {
+        if(index==arr.size()) {
             finalAns.push_back(container);
             return;
         }
