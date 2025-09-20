@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Search Tree
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 ## Sliding Window
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Recursion
 |  |
@@ -111,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
