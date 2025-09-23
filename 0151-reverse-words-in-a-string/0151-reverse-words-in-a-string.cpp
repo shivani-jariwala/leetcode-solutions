@@ -14,7 +14,7 @@ public:
                 r++;
             }
             string temp = s.substr(l, r-l);
-            if(temp.size()>0)
+            if(!temp.empty())
             vec.push_back(temp);
         }
         for(int i=vec.size()-1; i>=0; i--){
