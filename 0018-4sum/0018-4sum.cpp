@@ -6,7 +6,7 @@ public:
         sort(nums.begin(), nums.end());
         for(int i=0; i<nums.size(); i++) {
             for(int j=i+1; j<nums.size(); j++) {
-                long long newTarget = 1ll*target-(1ll*nums[i]+1ll*nums[j]);
+                long long newTarget = target-(1ll*nums[i]+1ll*nums[j]);
                 int l = j+1;
                 int r = nums.size()-1;
                 while(l<r){
