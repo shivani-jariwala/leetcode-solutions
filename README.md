@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0216-combination-sum-iii) |
+| [0485-max-consecutive-ones](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0940-fruit-into-baskets](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
