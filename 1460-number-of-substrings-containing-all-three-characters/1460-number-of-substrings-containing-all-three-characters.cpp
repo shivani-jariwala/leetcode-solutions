@@ -10,9 +10,9 @@ public:
                 hash[s[l]-'a']--;
                 l++;
             }
-            if(hash[0]>=1 && hash[1]>=1 && hash[2]>=1){
-                cnt += (s.size()-r);
-            }
+            // if(hash[0]>=1 && hash[1]>=1 && hash[2]>=1){
+            //     cnt += (s.size()-r);
+            // }
             r++;
         }
         return cnt;
