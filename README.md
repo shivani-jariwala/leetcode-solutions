@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0940-fruit-into-baskets](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
+| [1046-max-consecutive-ones-iii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Depth-First Search
