@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0216-combination-sum-iii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0485-max-consecutive-ones](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0940-fruit-into-baskets](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
