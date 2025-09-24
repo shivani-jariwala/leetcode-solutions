@@ -24,17 +24,15 @@ public:
             finalNode->val = remainder;
             if(l1) l1 = l1->next;
             if(l2) l2 = l2->next;
-            if (l1 != NULL || l2 != NULL || carryover != 0) {
-                finalNode->next = new ListNode();
-                finalNode = finalNode->next;
-            }
+            if(l1 == nullptr && l2 == nullptr) break;
+            finalNode->next = new ListNode();
+            finalNode = finalNode->next;
             
         }
 
         while(carryover) {
-            finalNode->val = carryover%10;
-            if(carryover/10 == 0) break;
             finalNode->next = new ListNode();
+            finalNode->next->val = carryover%10;
             carryover /= 10;
         }
         return copy;
