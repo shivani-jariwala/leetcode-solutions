@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## String Matching
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0216-combination-sum-iii) |
+| [0229-majority-element-ii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0940-fruit-into-baskets](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
@@ -183,4 +186,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
