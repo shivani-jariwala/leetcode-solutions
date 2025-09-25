@@ -13,9 +13,6 @@ public:
                 cnt--;
             }
         }
-        if(cnt>nums.size()/2){
-            return ele;
-        }
         return ele;
     }
 };
