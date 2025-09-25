@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -117,12 +118,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0189-rotate-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
