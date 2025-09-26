@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Trie
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0189-rotate-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
