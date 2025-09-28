@@ -11,30 +11,27 @@
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode* finalNode = new ListNode();
-        ListNode* copy = finalNode;
-        int carryover=0;
+        ListNode* dummyNode = new ListNode(-1);
+        ListNode* curr = dummyNode;
+        int sum =0, carry=0;
         while(l1!=NULL || l2!=NULL) {
-            int sum = 0;
+            // sum = l1->val + l2->val + carry; // this is wrong bcoz in while we used or condition so either of them can be null;
+            sum=carry;// this is correct bcoz everytime we add, from the previous we just want to bring back the carry and not the sum... therefore sum = sum + carry is incorrect.
             if(l1) sum += l1->val;
             if(l2) sum += l2->val;
-            sum += carryover;
-            int remainder = sum%10;
-            carryover = sum/10;
-            finalNode->val = remainder;
-            if(l1) l1 = l1->next;
-            if(l2) l2 = l2->next;
-            if(l1 == nullptr && l2 == nullptr) break;
-            finalNode->next = new ListNode();
-            finalNode = finalNode->next;
-            
+            // sum += carry;
+            carry = sum/10; 
+            ListNode* newNode = new ListNode(sum%10);
+            curr->next = newNode;
+            curr = curr->next;
+            //in the following 2 lines we used if check bcoz if l1 and l2 have uneven lengths than we don't know which one is null and therefore we put a check to both
+            if(l1) l1=l1->next;
+            if(l2) l2=l2->next;
         }
-
-        while(carryover) {
-            finalNode->next = new ListNode();
-            finalNode->next->val = carryover%10;
-            carryover /= 10;
+        if(carry) {
+            curr->next = new ListNode(carry);
         }
-        return copy;
+        return dummyNode->next;
+        
     }
 };
