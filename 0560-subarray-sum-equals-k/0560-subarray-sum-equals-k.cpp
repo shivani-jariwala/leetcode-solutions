@@ -7,7 +7,7 @@ public:
         while(i<nums.size()){
             sum += nums[i];
             int diff = sum - k;
-            if(mpp[diff]) cnt = cnt + mpp[diff];
+            if(mpp[diff]) cnt += mpp[diff];
             mpp[sum] = mpp[sum]+1;
             i++;
         }
