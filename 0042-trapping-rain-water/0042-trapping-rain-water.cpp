@@ -1,34 +1,26 @@
 class Solution {
-private: 
-    vector<int> computePrefixMax(vector<int>& height) {
-        int n = height.size();
-        vector<int> prefixMax(n);
-        prefixMax[0]=height[0];
-        for(int i=1; i<n; i++) {
-            prefixMax[i] = max(height[i], prefixMax[i-1]);
-        }
-        return prefixMax;
-    }
-
-    vector<int> computeSuffixMax(vector<int>& height) {
-        int n = height.size();
-        vector<int> suffixMax(n);
-        suffixMax[n-1]=height[n-1];
-        for(int i=n-2; i>=0; i--) {
-            suffixMax[i] = max(height[i], suffixMax[i+1]);
-        }
-        return suffixMax;
-    }
 public:
     int trap(vector<int>& height) {
-        //O(N)
-        int total=0;
-            vector<int> pMax = computePrefixMax(height);
-            vector<int> sMax = computeSuffixMax(height);
-        for(int i=0; i<height.size(); i++) {
-            int storage = min(pMax[i], sMax[i])-height[i];
-            if(storage > 0){
-                total += storage;  
+        //TC=o(n) and SC=o(1) 2-pointer approach
+        int n=height.size();
+        int low=0, high=n-1, lMax=0, rMax=0, total=0;
+        while(low<=high) {
+            if(height[low]<=height[high]){
+                //low is small therefore move it
+                if(lMax>height[low]){
+                    total += lMax - height[low];
+                }else{
+                    lMax = height[low];
+                }
+                low++;
+            }else{
+                //high is small therefore move it
+                if(rMax>height[high]){
+                    total += rMax - height[high];
+                }else{
+                    rMax = height[high];
+                }
+                high--;
             }
         }
         return total;
