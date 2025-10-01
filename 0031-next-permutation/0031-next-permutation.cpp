@@ -13,15 +13,15 @@ public:
         //no dip
         if(pivot==-1) {
             reverse(nums.begin(), nums.end());
-            return;
-        }
-        //dip found then swap
-        for(int i=n-1; i>pivot; i--){
-            if(nums[i]>nums[pivot]){
-                swap(nums[i], nums[pivot]);
-                break;
+        }else{
+            //dip found then swap
+            for(int i=n-1; i>pivot; i--){
+                if(nums[i]>nums[pivot]){
+                    swap(nums[i], nums[pivot]);
+                    break;
+                }
             }
+            reverse(nums.begin() + pivot+1, nums.end());    
         }
-        reverse(nums.begin() + pivot+1, nums.end());
     }
 };
