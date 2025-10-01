@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Recursion
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -317,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
