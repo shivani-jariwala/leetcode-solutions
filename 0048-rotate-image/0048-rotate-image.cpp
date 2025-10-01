@@ -11,7 +11,7 @@ private:
 public:
     void rotate(vector<vector<int>>& matrix) {
         //transpose the matrix and then reverse
-        for(int i=0; i<matrix.size(); i++){
+        for(int i=0; i<=(int)matrix.size()-2; i++){
             for(int j=i+1; j<=matrix.size()-1; j++) {
                 swap(matrix[i][j], matrix[j][i]);
             }
