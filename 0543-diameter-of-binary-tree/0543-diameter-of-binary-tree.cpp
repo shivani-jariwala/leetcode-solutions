@@ -16,18 +16,13 @@ int maxDepth(TreeNode* root) {
         if(root==NULL) return 0;
         int lh = maxDepth(root->left);
         int rh = maxDepth(root->right);
+        maxi = max(maxi, lh+rh);
         return 1+max(lh,rh);
     }
 public:
     int diameterOfBinaryTree(TreeNode* root) {
-        //both hieght and diameter are imp at each node
-        //O(N^2)
-        if(root==NULL) return 0;
-        int lHeight = maxDepth(root->left);
-        int rHeight = maxDepth(root->right);
-        maxi = max(maxi, lHeight+rHeight);
-        diameterOfBinaryTree(root->left);
-        diameterOfBinaryTree(root->right);
+        //O(N) is calculating both height and width in 1 go storing maxi for each node that signifies width
+        maxDepth(root);
         return maxi;
     }
 };
