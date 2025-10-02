@@ -10,23 +10,20 @@
  * };
  */
 class Solution {
-private:
+private: 
     int calHeight(TreeNode* root) {
         if(root==NULL) return 0;
         int lh = calHeight(root->left);
+        if(lh==-1) return -1;
         int rh = calHeight(root->right);
-        return 1+max(lh,rh);
+        if(rh==-1) return -1;
+        if(abs(lh-rh)>1) return -1;
+        return 1+max(lh,rh); //returns height if everything is fine
     }
 public:
     bool isBalanced(TreeNode* root) {
-        //brute-force solution with O(N^2)
-        if(root==NULL) return true;
-        int lHeight= calHeight(root->left);
-        int rHeight= calHeight(root->right);
-        if(abs(lHeight-rHeight)>1) return false;
-        bool isLeftBalanced = isBalanced(root->left);
-        bool isRightBalanced = isBalanced(root->right);
-        return isLeftBalanced && isRightBalanced;
-    }
-
+        //O(N) solution
+        if(calHeight(root)==-1) return false;
+        return true;
+    }   
 };
