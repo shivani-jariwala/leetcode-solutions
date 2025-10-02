@@ -11,20 +11,22 @@
  */
 class Solution {
 private:
-    int findH(TreeNode* node) {
-        if(node==NULL) return 0;
-        int lh = findH(node->left);
-        if(lh == -1) return -1;
-        int rh = findH(node->right);
-        if(rh==-1) return -1;
-        if(abs(lh-rh)>1) return -1;
+    int calHeight(TreeNode* root) {
+        if(root==NULL) return 0;
+        int lh = calHeight(root->left);
+        int rh = calHeight(root->right);
         return 1+max(lh,rh);
     }
 public:
     bool isBalanced(TreeNode* root) {
+        //brute-force solution with O(N^2)
         if(root==NULL) return true;
-        int ans = findH(root);
-        if(ans == -1) return false;
-        return true;
+        int lHeight= calHeight(root->left);
+        int rHeight= calHeight(root->right);
+        if(abs(lHeight-rHeight)>1) return false;
+        bool isLeftBalanced = isBalanced(root->left);
+        bool isRightBalanced = isBalanced(root->right);
+        return isLeftBalanced && isRightBalanced;
     }
+
 };
