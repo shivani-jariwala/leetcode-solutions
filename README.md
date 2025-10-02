@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0817-design-hashmap](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0817-design-hashmap) |
 | [0940-fruit-into-baskets](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0817-design-hashmap](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0817-design-hashmap) |
 | [0940-fruit-into-baskets](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0817-design-hashmap](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0817-design-hashmap) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0232-implement-queue-using-stacks](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0817-design-hashmap](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0817-design-hashmap) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -361,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
