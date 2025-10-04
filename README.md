@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0812-rotate-string](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0812-rotate-string) |
+| [1250-longest-common-subsequence](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1304-longest-happy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [1250-longest-common-subsequence](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 ## Linked List
 |  |
 | ------- |
