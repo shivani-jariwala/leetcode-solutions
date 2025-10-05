@@ -11,8 +11,7 @@ public:
             }else if(nums1[i]>nums2[j]) {
                 j++;
             }else{
-                if(ans.size()==0) ans.push_back(nums1[i]);
-                if(ans.back()!=nums1[i]) ans.push_back(nums1[i]);
+                if(ans.size()==0 || ans.back()!=nums1[i]) ans.push_back(nums1[i]);
                 i++;
                 j++;
             }
