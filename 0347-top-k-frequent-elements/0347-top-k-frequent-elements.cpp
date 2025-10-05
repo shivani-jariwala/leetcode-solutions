@@ -1,24 +1,26 @@
 class Solution {
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
-        unordered_map<int, int> mpp; //num, freq
-        for(int i=0; i<nums.size(); i++){
+        //using bucket sort
+        unordered_map<int,int> mpp;
+        int n = nums.size();
+        for(int i=0;i<n; i++){
             mpp[nums[i]]++;
         }
-        //mip heap //{freq, num}
-        priority_queue<pair<int,int>,vector<pair<int,int>>, greater<pair<int,int>>> pq;
-        //start pushing to the heap
-        for(auto& [num, freq] : mpp){
-            pq.push({freq, num});
-            if(pq.size() > k){
-                pq.pop();
-            }
+        //[[],[3],[2],[1],[],[],[]]
+        vector<vector<int>> buckets(n+1);
+        for(auto &[num, freq]: mpp) {
+            buckets[freq].push_back(num);
         }
-        //it's time to take out the elements from pq
         vector<int> ans;
-        while(!pq.empty()){
-            ans.push_back(pq.top().second);
-            pq.pop();
+        //start iterating from back over buckets for k times
+        for(int i=n; i>=1; i--){
+            if(!buckets[i].empty()){
+                for(auto& it: buckets[i]) {
+                    if(ans.size() ==k) break;
+                    ans.push_back(it);
+                }
+            }
         }
         return ans;
     }
