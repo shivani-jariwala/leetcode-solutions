@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## String Matching
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0134-gas-station) |
+| [0435-non-overlapping-intervals](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [1304-longest-happy-string](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1304-longest-happy-string) |
 | [1487-cinema-seat-allocation](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1487-cinema-seat-allocation) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
