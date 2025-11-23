@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0322-coin-change) |
 ## Dynamic Programming
@@ -515,4 +517,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
