@@ -4,7 +4,7 @@ public:
         //build adjacency list 
         vector<vector<int>> adjList(numCourses);
         for(int i =0 ;i<prerequisites.size(); i++){
-            adjList[prerequisites[i][0]].push_back(prerequisites[i][1]);
+            adjList[prerequisites[i][1]].push_back(prerequisites[i][0]);
         }
         //building indegree array
   vector<int> indegree(numCourses, 0); 
