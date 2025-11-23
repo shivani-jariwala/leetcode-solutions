@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0741-cherry-pickup](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0741-cherry-pickup) |
 | [0817-design-hashmap](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0817-design-hashmap) |
 | [0940-fruit-into-baskets](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0518-coin-change-ii) |
+| [0741-cherry-pickup](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0741-cherry-pickup) |
 | [0967-minimum-falling-path-sum](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 ## Linked List
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0079-word-search) |
+| [0741-cherry-pickup](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0741-cherry-pickup) |
 | [0967-minimum-falling-path-sum](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
 ## Simulation
 |  |
