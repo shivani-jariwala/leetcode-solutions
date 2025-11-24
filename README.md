@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [1487-cinema-seat-allocation](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1487-cinema-seat-allocation) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
