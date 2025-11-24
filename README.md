@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0173-binary-search-tree-iterator](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Backtracking
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
