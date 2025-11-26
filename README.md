@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1487-cinema-seat-allocation](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1487-cinema-seat-allocation) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## String
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Sorting
 |  |
