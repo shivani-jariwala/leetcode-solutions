@@ -2,18 +2,16 @@ class Solution {
 public:
     int minLengthAfterRemovals(vector<int>& nums) {
         int n = nums.size();
-        int i =0;
-        int j = n/2;
-        int pairs =0;
-        while(i<n/2 && j<n) {
-            if(nums[i]<nums[j]) {
-                pairs = pairs +2;
-                i++;
-                j++;
-            } else {
-                j++;
-            }
+        int mid = nums[n/2];
+
+        auto start = lower_bound(nums.begin(), nums.end(), mid);
+        auto end = upper_bound(nums.begin(), nums.end(), mid);
+
+        int maxFreq = end - start;
+
+        if(maxFreq> n/2){
+            return maxFreq - (n-maxFreq);
         }
-        return n-pairs;
+        return n%2;
     }
 };
