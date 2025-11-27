@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1487-cinema-seat-allocation](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1487-cinema-seat-allocation) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/2856-minimum-array-length-after-pair-removals) |
 ## String
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/2856-minimum-array-length-after-pair-removals) |
 ## Trie
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/2856-minimum-array-length-after-pair-removals) |
 ## Binary Tree
 |  |
 | ------- |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/2856-minimum-array-length-after-pair-removals) |
 ## Math
 |  |
 | ------- |
@@ -310,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1487-cinema-seat-allocation](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1487-cinema-seat-allocation) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/2856-minimum-array-length-after-pair-removals) |
 ## Stack
 |  |
 | ------- |
@@ -459,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/2856-minimum-array-length-after-pair-removals) |
 ## Monotonic Stack
 |  |
 | ------- |
