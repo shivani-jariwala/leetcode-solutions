@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0817-design-hashmap](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0817-design-hashmap) |
 | [0940-fruit-into-baskets](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0812-rotate-string](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0812-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1304-longest-happy-string) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0940-fruit-into-baskets](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
