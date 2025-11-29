@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0817-design-hashmap) |
 | [0940-fruit-into-baskets](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [0981-time-based-key-value-store](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1487-cinema-seat-allocation](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1487-cinema-seat-allocation) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0812-rotate-string](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0812-rotate-string) |
+| [0981-time-based-key-value-store](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1304-longest-happy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0981-time-based-key-value-store](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/2856-minimum-array-length-after-pair-removals) |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0817-design-hashmap](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0817-design-hashmap) |
+| [0981-time-based-key-value-store](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 ## Doubly-Linked List
 |  |
 | ------- |
