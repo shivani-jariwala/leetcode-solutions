@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0139-word-break) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0212-word-search-ii) |
 ## Tree
 |  |
 | ------- |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0212-word-search-ii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
@@ -503,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0741-cherry-pickup](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0741-cherry-pickup) |
 | [0967-minimum-falling-path-sum](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
 ## Simulation
