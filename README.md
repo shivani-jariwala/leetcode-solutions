@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1304-longest-happy-string](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/1304-longest-happy-string) |
 ## Merge Sort
@@ -536,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0817-design-hashmap](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0817-design-hashmap) |
 | [0981-time-based-key-value-store](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
@@ -584,4 +588,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/shivani-jariwala/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
